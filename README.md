@@ -38,7 +38,11 @@ Develop a React.js application that fetches and displays a list of users from an
    git clone <repository_url>
    cd <repository_directory>
 
-#Install dependencies:   
-npm instaal
-##Start the development server:
+# Install dependencies:   
+npm install
+## Start the development server:
 npm start
+
+## Github link: https://github.com/vidhyasagar70/wisdom_ass
+
+## Vercel hosted link : https://wisdom-ass.vercel.app
