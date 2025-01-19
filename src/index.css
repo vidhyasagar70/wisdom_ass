@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+body {
+    padding-bottom: 80px; /* Adjust this value to ensure it accommodates the height of the footer */
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
